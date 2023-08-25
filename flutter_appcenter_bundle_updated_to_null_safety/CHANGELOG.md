@@ -1,3 +1,6 @@
+## 1.0.8
+Fixed methods in android folder
+
 ## 1.0.7
 Updated dependencies
 
